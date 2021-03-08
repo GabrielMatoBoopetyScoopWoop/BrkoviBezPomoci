@@ -1,0 +1,9 @@
+C:\Users\Učenik 4\source\repos\Brkovi\Brkovi\bin\Debug\Brkovi.exe.config
+C:\Users\Učenik 4\source\repos\Brkovi\Brkovi\bin\Debug\Brkovi.exe
+C:\Users\Učenik 4\source\repos\Brkovi\Brkovi\bin\Debug\Brkovi.pdb
+C:\Users\Učenik 4\source\repos\Brkovi\Brkovi\obj\Debug\Brkovi.csprojAssemblyReference.cache
+C:\Users\Učenik 4\source\repos\Brkovi\Brkovi\obj\Debug\Brkovi.Form1.resources
+C:\Users\Učenik 4\source\repos\Brkovi\Brkovi\obj\Debug\Brkovi.Properties.Resources.resources
+C:\Users\Učenik 4\source\repos\Brkovi\Brkovi\obj\Debug\Brkovi.csproj.GenerateResource.cache
+C:\Users\Učenik 4\source\repos\Brkovi\Brkovi\obj\Debug\Brkovi.exe
+C:\Users\Učenik 4\source\repos\Brkovi\Brkovi\obj\Debug\Brkovi.pdb
